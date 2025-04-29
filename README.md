@@ -10,8 +10,8 @@
 - Currently learning: TypeScript, Next.js, and Copilot AI  
 
 ### 📫 How to reach me
-- Email: your.email@example.com *(replace this)*
-- LinkedIn: [Your LinkedIn](#)
+- Email:kiranmondal5516@gmail.com 
+- LinkedIn:
 
 ### ⚡ Fun Facts
 - I love building tools that automate tasks.
